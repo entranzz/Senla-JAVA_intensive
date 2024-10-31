@@ -1,0 +1,9 @@
+Temperature changed to: 100.0
+Humidity changed to: 100.0
+Sunlight changed to: 100.0
+Water resources changed to: 100.0
+Food changed to: 100
+Plant 25 is predicted to be: decreasing
+Animal 2 is predicted to be: decreasing
+Plant 25 is predicted to be: decreasing
+Animal 2 is predicted to be: decreasing

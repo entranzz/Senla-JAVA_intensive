@@ -1,0 +1,9 @@
+Temperature: 25.482261048340415
+Humidity: 76.44682398465446
+Sunlight: 8.243005630070451
+WaterResources: 981.0
+Food: 100
+Plants:
+loh,4.0,4.0
+Animals:
+papa,7.0,7.0
